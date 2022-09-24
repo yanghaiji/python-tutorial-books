@@ -14,3 +14,7 @@
 - [if else 语句](branch-statement/001%20if-statement.md)
 - [while 循环语句](branch-statement/002%20while-loop.md)
 - [for 循环语句](branch-statement/003%20for-loop.md)
+
+
+## [数据类型]()
+- [数字类型](data-type/001%20number.md)
