@@ -20,3 +20,4 @@
 - [数字类型](data-type/001%20number.md)
 - [字符串类型](data-type/002%20string.md)
 - [list类型](data-type/003%20list.md)
+- [字典类型](data-type/004%20map.md)
