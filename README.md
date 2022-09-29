@@ -21,3 +21,6 @@
 - [字符串类型](data-type/002%20string.md)
 - [list类型](data-type/003%20list.md)
 - [字典类型](data-type/004%20map.md)
+
+## [函数]()
+- [函数的定义与使用](functions/001%20functions.md)
