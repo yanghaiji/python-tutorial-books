@@ -24,3 +24,6 @@
 
 ## [函数]()
 - [函数的定义与使用](functions/001%20functions.md)
+
+## [面向对象]()
+- [Class 的定义与使用](classes/classes.md)
