@@ -53,3 +53,4 @@
 - [使用和调用](pytest/002%20usage.md)
 - [断言的编写与使用](pytest/003%20assert.md)
 - [fixture简介与使用](pytest/004%20fixture.md)
+- [数据驱动测试工具](pytest/005%20parametrize.md)
