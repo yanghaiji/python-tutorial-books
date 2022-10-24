@@ -55,3 +55,4 @@
 - [fixture简介与使用](pytest/004%20fixture.md)
 - [数据驱动测试工具](pytest/005%20parametrize.md)
 - [skipping 与 xfail 处理无法成功的测试](pytest/006%20skipping.md)
+- [pytest.ini  配置文件的详细使用](pytest/007%20pytest.ini.md)
