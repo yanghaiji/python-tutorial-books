@@ -56,3 +56,5 @@
 - [数据驱动测试工具](pytest/005%20parametrize.md)
 - [skipping 与 xfail 处理无法成功的测试](pytest/006%20skipping.md)
 - [pytest.ini  配置文件的详细使用](pytest/007%20pytest.ini.md)
+- [conftest  配置文件的详细使用](pytest/008%20conftest.md)
+- [项目实战](https://github.com/yanghaiji/qualification-test-plan)
