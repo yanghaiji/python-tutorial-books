@@ -70,3 +70,7 @@
 ### [pytest 项目实战]()
 
 - [项目实战](https://github.com/yanghaiji/qualification-test-plan)
+
+### [Pytest 实用插件介绍]()
+
+- [pytest 实用插件](pytest/009%20pluginuint.md)
