@@ -45,6 +45,12 @@
 
 - [Request 使用的那些事](request/request.md)
 
+# Python 连接数据库
+
+### [连接mysql]()
+
+- [PyMysql 连接Mysql](connect-db/mysql/PyMysql.md)
+
 # Pytest 入门教程
 
 ### [pytest 简介]()
