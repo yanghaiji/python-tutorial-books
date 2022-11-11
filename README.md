@@ -73,10 +73,14 @@
 - [pytest.ini 配置文件的详细使用](pytest/007%20pytest.ini.md)
 - [conftest 配置文件的详细使用](pytest/008%20conftest.md)
 
-### [pytest 项目实战]()
-
-- [项目实战](https://github.com/yanghaiji/qualification-test-plan)
-
 ### [Pytest 实用插件介绍]()
 
 - [pytest 实用插件](pytest/009%20pluginuint.md)
+
+### [pytest 接口自动化实战]()
+
+- [pytest 接口自动化测试](pytest/010%20interface%20auto.md)
+
+# [pytest 项目实战]()
+
+- [项目实战](https://github.com/yanghaiji/qualification-test-plan)
