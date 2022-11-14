@@ -45,6 +45,11 @@
 
 - [Request 使用的那些事](request/request.md)
 
+
+### [python 调用jmeter脚本]()
+
+- [python 调用jmeter脚本的几种方式](jmeter/python_to_jmeter.md)
+
 # Python 连接数据库
 
 ### [连接mysql]()
