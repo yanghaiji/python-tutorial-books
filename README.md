@@ -45,7 +45,6 @@
 
 - [Request 使用的那些事](request/request.md)
 
-
 ### [python 调用jmeter脚本]()
 
 - [python 调用jmeter脚本的几种方式](jmeter/python_to_jmeter.md)
@@ -55,6 +54,10 @@
 ### [连接mysql]()
 
 - [PyMysql 连接Mysql](connect-db/mysql/PyMysql.md)
+
+### [python 操作excel]()
+
+- [[python 操作excel](excel/001%20python%20操作excel.md)
 
 # Pytest 入门教程
 
